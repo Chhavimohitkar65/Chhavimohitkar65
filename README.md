@@ -1,6 +1,6 @@
 
-
-<h1 align="center">HiI 👋, I'm Chhavi Mohitkar</h1>
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Chhavi Mohitkar</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Designer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp">
 
