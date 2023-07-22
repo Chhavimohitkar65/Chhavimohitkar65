@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **CV ANN and ML**
 
-- 📫 How to reach me **chhavi.mohitkar06@gmail.com**
+- 📫 How to reach- me **chhavi.mohitkar06@gmail.com**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
