@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhavimohitkar65&label=Profile%20views&color=0e75b6&style=flat" alt="chhavimohitkar65" /> </p>
 
-- 🌱  Passionate about AI, Machine Learning, and Data Science. **
+🌱  Passionate about AI, Machine Learning, and Data Science.
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
