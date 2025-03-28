@@ -31,7 +31,6 @@
 
 
 
-<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chhavimohitkar65&theme=tokyonight" alt="chhavimohitkar65" /></p>
 
 <p >
 
